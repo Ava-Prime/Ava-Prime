@@ -1,0 +1,16 @@
+# Dependencies
+/node_modules
+/dist
+/genkit-temp
+
+# Logs
+*.log
+.firebase/logs/
+
+# Secrets
+.env
+ava-prime-service-key.json
+
+# Local state
+GEMINI_STATE.md
+.gemini/

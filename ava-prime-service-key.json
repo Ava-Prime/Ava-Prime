@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ava-prime-459710",
+  "private_key_id": "9e28874c9ad00ef6c2b69a93c84114de826ffc8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDkIXV9zaFG+g+c\nqdz6KfLT+32seL4e9lZ4+WN+E0xukOHrUSInR/pdRUgipd7XuXiDK8FBDSoOxHrY\nOpwjkflZGfDqT8h8oq52AJnQ3CdLrmdwvCDXntktIBNAEk3N+UXad6S2HnItQ5sd\n4gW7NFqUedSdiEBihfqbYpok4+YZzO9ZOQZ/B+2GDelNrk8+Ns4uvpxYPyD5OxsE\nYYu+aTfMCJ/dENeY/Y8JuwgGhdcAiUp9R+KHvotgOAqNY/ovLnD20C15PuQcaE2/\n6lYwqsfR1NF8jAmU0Zj+U8IDBdW53HhxyiBi0u82fcsmTLoUg2pl1ryUCBSZ+4Kj\nFfAjWMBjAgMBAAECggEABtBfB4ZsUkfmznmeYZR+Lcm9u7iRiTA3bf6Y86uU5VqL\nfPFb8UtrlXybxnko2k2uZVCZwZ0oi+9fcfTyM/fIuFoXgZAnf12Gk3y6G2xv+gk4\nCrx7yKT0fK4QFSJW05el9/wJ3eyz4Vk7GV3maOyL5hJrgNcQgUDaNujvjLmH5m5T\nqdJ0qU3YKIC6INqva6/NzZJztbLlC8APX0dGlLrWl2mGR3kaMVvlwTsiaCy0qbHL\nu1VjfPWWZJArTHruCBQ9gUENSkInq0NZ96wTUvfV2OgLYFOrsYOg/6nDhSd1tNAR\np5SlIPC1FGZjbEqiVNVh0AUUk6cH1udPa/qfCGnN+QKBgQD0ldbxxZanw3tGPUqC\nV69b1sb5vUfm1AGIpthW1jALCwAf7Jg80l9hYMevceCflMl6P5IBP6H087FLMPcO\nLGxLzKu8LjRCzXvRc5g3W3EkuRhTHJOUyh6w3pYnRAKKYqP+z/JGOy3uShyiOvH0\nsI3eST9U5g452y3AjZqvF5btywKBgQDuxweExJ+SvlZlZBzh14aIVKocmjuXsuj+\n7uCmnmi8g0pSbbUiM9853voQJ24dRzOxfbYIu0CzsuCcW60iBXgc/d3ALX4eFQ0m\ncEeHH54ZfEX4ihNDZgWwLYDmJqhrzbxevM9S+8okanRoUtvVewOFhSnMrQvnLY3U\nfGYhuEakyQKBgAGB+vU6lpcqKVRhhFgRWk9in49ij1Lo86l3/dVrNJic1L9dogKd\n+WCMTC7UsOHK9QL/6VKAperwpaMlBiDcPT6qYFSkpEXVJnJAGCwfMC9dxLyebHp6\nVH4aoSpUzP81ZHVpqsCsFLhnVI3bdype/EDmirFnSacpprqNJOr3ZkLJAoGBAJXP\nLbpxGqUY4l/Oxgg0DuYuKGS1p7nvuBtqiGxBavkLbm/1APYqkV1ftoi4FHAuIhK0\nCqfDxD56dk3jfuafg9K8vIo8gKojDxMU0uvGPI1E2Smsh5V7xwnYIs1DZ9vrQso1\nr+Yir5rVZ5+kjOSNv5HgEG+oCpXKkPfF7NYvJbNxAoGBAO0IQEmyQtq0FygEfzn6\nk/k1UmlALizKbUrTxyp8xM6Ma1yddE7YDIXZMwSf2b5o5CSxObQYAQw4LRtxisJ2\nTCY4vlvRQnnJCMv/TzrfmcFV/Yzi3IrBXV2v9gw7PEeSRy2IuGN+wHcwSmeeJC/M\nG1e+yov43UubQSMyWX0bYujj\n-----END PRIVATE KEY-----\n",
+  "client_email": "ava-prime-agent@ava-prime-459710.iam.gserviceaccount.com",
+  "client_id": "112533689893628120698",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ava-prime-agent%40ava-prime-459710.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

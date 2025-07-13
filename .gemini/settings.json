@@ -1,0 +1,14 @@
+{
+  "model": "gemini-1.5-pro",
+  "auth": {
+    "strategy": "gcloud_service_account",
+    "keyfile": "ava-prime-service-key.json"
+  },
+  "project": "ava-prime-459710",
+  "region": "us-central1",
+  "functionality": {
+    "enableCodeExecution": true,
+    "enableShellAccess": true,
+    "enableFileAccess": true
+  }
+}

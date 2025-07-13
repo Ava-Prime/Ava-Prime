@@ -1,0 +1,35 @@
+{
+  "name": "avaprime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "genkit start",
+    "build": "tsc",
+    "dev": "nodemon --watch src -e ts,js --exec \"genkit start\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@genkit-ai/core": "^0.5.5",
+    "@genkit-ai/firebase": "^0.5.5",
+    "@genkit-ai/flow": "^0.5.5",
+    "@genkit-ai/googleai": "^0.5.5",
+    "@opentelemetry/api": "^1.9.0",
+    "dotenv": "^17.2.0",
+    "firebase": "^11.10.0",
+    "firebase-admin": "^12.2.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/json-schema": "^7.0.15",
+    "nodemon": "^3.1.10",
+    "typescript": "^5.8.3"
+  },
+  "resolutions": {
+    "@opentelemetry/api": "^1.9.0"
+  }
+}
